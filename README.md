@@ -1,7 +1,7 @@
 
 # My personal portfolio
 
-this repository is my personal portfolio. I have added only html code only. To see the full website and my skills, visit my [website](https://prasadpanchal.netlify.app/). Also you can contact me there.
+this repository is my personal portfolio. I have added only html code only. To see the full website and my skills, visit my [website](https://prasadp.netlify.app/). Also you can contact me there.
 
 ## CDN's Used
 
@@ -42,4 +42,4 @@ The basic colors used throughout the website are the following
 
 ## Link to Website 
 
-https://prasadpanchal.netlify.app/
+https://prasadp.netlify.app/
